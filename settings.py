@@ -1,1 +1,1 @@
-"this has nothing in it yet..."
+ALLOWED_HOSTS = ["localhost", "127.0.0.1", "farrel-dharmawan-mentalhealthtracker.pbp.cs.ui.ac.id"]
